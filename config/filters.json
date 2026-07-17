@@ -1,0 +1,19 @@
+{
+  "_about": "Tuning for what counts as a wanted role. Edit and re-run; no code changes needed.",
+  "categories": ["quant", "trading", "structuring"],
+  "require_summer": true,
+  "min_year": 2027,
+  "keep_unknown_location": true,
+  "location_keywords": [
+    "london", "dublin", "amsterdam", "paris",
+    "zug", "zurich", "geneva", "frankfurt", "berlin", "munich", "milan",
+    "madrid", "barcelona", "lisbon", "porto", "stockholm", "copenhagen",
+    "oslo", "helsinki", "warsaw", "prague", "vienna", "brussels",
+    "luxembourg", "gibraltar", "malta", "monaco", "rotterdam", "the hague",
+    "manchester", "edinburgh", "cambridge", "oxford", "cluj", "sofia",
+    "united kingdom", "uk", "england", "scotland", "ireland", "netherlands",
+    "france", "germany", "switzerland", "italy", "spain", "portugal",
+    "sweden", "denmark", "norway", "finland", "poland", "czech", "austria",
+    "belgium", "romania", "bulgaria", "europe", "emea", "european"
+  ]
+}

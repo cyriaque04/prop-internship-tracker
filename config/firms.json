@@ -1,0 +1,30 @@
+{
+  "_about": "Tracked proprietary trading firms and their applicant-tracking-system config. Each entry's 'source' selects the fetcher in prop_tracker/ats.py. Add more firms with tools/discover.py. Set \"disabled\": true to skip one.",
+  "firms": [
+    {"name": "Akuna Capital", "source": "greenhouse", "token": "akunacapital"},
+    {"name": "Aquatic", "source": "greenhouse", "token": "aquaticcapitalmanagement"},
+    {"name": "Belvedere Trading", "source": "lever", "company": "belvederetrading"},
+    {"name": "BlackEdge Capital", "source": "greenhouse", "token": "blackedgecapital"},
+    {"name": "DV Trading", "source": "greenhouse", "token": "dvtrading"},
+    {"name": "Five Rings", "source": "greenhouse", "token": "fiveringsllc"},
+    {"name": "Flow Traders", "source": "greenhouse", "token": "flowtraders"},
+    {"name": "Gelber Group", "source": "greenhouse", "token": "gelbergroup"},
+    {"name": "Geneva Trading", "source": "greenhouse", "token": "genevatrading"},
+    {"name": "Headlands Technology", "source": "greenhouse", "token": "headlandstechnologiesllc"},
+    {"name": "Hudson River Trading", "source": "greenhouse", "token": "hrttalentcommunity", "note": "Only the talent-community board was auto-detectable; HRT's main campus board may live elsewhere."},
+    {"name": "Jump Trading", "source": "greenhouse", "token": "jumptrading"},
+    {"name": "Keyrock", "source": "ashby", "org": "keyrock"},
+    {"name": "Kronos Research", "source": "greenhouse", "token": "kronosresearch"},
+    {"name": "Mako Trading", "source": "greenhouse", "token": "mako"},
+    {"name": "Maven Securities", "source": "greenhouse", "token": "mavensecuritiesholdingltd"},
+    {"name": "Old Mission Capital", "source": "greenhouse", "token": "oldmissioncapital"},
+    {"name": "Radix Trading", "source": "greenhouse", "token": "radixuniversity"},
+    {"name": "Simplex Trading", "source": "greenhouse", "token": "simplextrading"},
+    {"name": "Tower Research Capital", "source": "greenhouse", "token": "towerresearchcapital"},
+    {"name": "TransMarket Group", "source": "greenhouse", "token": "transmarketgroup"},
+    {"name": "Vatic Labs", "source": "greenhouse", "token": "vaticlabs"},
+    {"name": "VIRTU Financial", "source": "greenhouse", "token": "virtu"},
+    {"name": "WorldQuant", "source": "greenhouse", "token": "worldquant"},
+    {"name": "XTX Markets", "source": "greenhouse", "token": "xtxmarketstechnologies"}
+  ]
+}

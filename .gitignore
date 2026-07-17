@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Discovery scratch output (kept out of the committed config)
+tools/discovered.json
+tools/verified.json
+tools/discover.log

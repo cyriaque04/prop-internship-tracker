@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-19 18:49 UTC_
+_Last updated: 2026-07-20 09:18 UTC_
 
 **6 matching open role(s)** across tracked firms.
 

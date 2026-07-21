@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-21 14:00 UTC_
+_Last updated: 2026-07-21 19:02 UTC_
 
 **6 matching open role(s)** across tracked firms.
 
@@ -15,6 +15,3 @@ _Last updated: 2026-07-21 14:00 UTC_
 ## VIRTU Financial
 - [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
-
-## ⚠️ Firms that could not be checked this run
-- **Hudson River Trading**: Request failed for https://boards-api.greenhouse.io/v1/boards/hrttalentcommunity/jobs?content=false: The read operation timed out

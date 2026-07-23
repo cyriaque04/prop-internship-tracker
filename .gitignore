@@ -9,4 +9,4 @@ __pycache__/
 # Discovery scratch output (kept out of the committed config)
 tools/discovered.json
 tools/verified.json
-tools/discover.log
+tools/*.log

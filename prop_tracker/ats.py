@@ -32,6 +32,9 @@ class Job:
     source: str = ""
     raw_id: str = ""
     categories: list[str] = field(default_factory=list)
+    # For html-source jobs (which carry no structured location): whether the
+    # firm is European. Used to decide unknown-location jobs under a region filter.
+    assume_europe: bool = False
 
     @property
     def uid(self) -> str:
@@ -258,7 +261,8 @@ def fetch_html(firm: str, cfg: dict) -> list[Job]:
     nothing here (which is why ATS sources above are strongly preferred).
     """
     base = cfg["url"]
-    page = http.get_text(base)
+    assume_europe = bool(cfg.get("assume_europe", False))
+    page = http.get_text(base, timeout=12)
     jobs = []
     seen = set()
     for href, inner in _ANCHOR_RE.findall(page):
@@ -276,6 +280,7 @@ def fetch_html(firm: str, cfg: dict) -> list[Job]:
                 url=url,
                 source="html",
                 raw_id=url,
+                assume_europe=assume_europe,
             )
         )
     return jobs

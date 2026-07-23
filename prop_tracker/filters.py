@@ -122,11 +122,18 @@ def _location_ok(job: Job, filt: Filters) -> bool:
     loc_re = filt._loc_re()
     if loc_re is None:
         return True
-    # also look at title, since some titles bake in the location
-    hay = " ".join(filter(None, [job.location, job.title]))
-    if not job.location and not loc_re.search(job.title):
-        return filt.keep_unknown_location
-    return bool(loc_re.search(hay))
+    # Look at location + title + url, since some bake the city into those.
+    hay = " ".join(filter(None, [job.location, job.title, job.url]))
+    if loc_re.search(hay):
+        return True
+    # No explicit location signal anywhere.
+    if job.location:
+        return False  # had a location, just not a wanted one
+    # Unknown location. html-source jobs only pass when the firm is European;
+    # otherwise fall back to the global keep_unknown_location setting.
+    if job.source == "html":
+        return job.assume_europe
+    return filt.keep_unknown_location
 
 
 def match(job: Job, filt: Filters | None = None) -> list[str] | None:

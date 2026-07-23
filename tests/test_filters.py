@@ -58,6 +58,31 @@ EU_CASES = [
 ]
 
 
+# --- html-source region guard -------------------------------------------------
+def JH(title, location="", assume_europe=False, url="u"):
+    return Job(firm="X", title=title, url=url, location=location,
+               source="html", assume_europe=assume_europe)
+
+
+def run_html():
+    cases = [
+        # (job, expected)
+        (JH("Trading Internship", assume_europe=True), ["trading"]),         # EU firm, kept
+        (JH("Quantitative Trader Internship", assume_europe=False), None),   # non-EU firm, unknown loc → drop
+        (JH("Trading Intern", location="London"), ["trading"]),             # explicit EU location
+        (JH("Trading Intern", location="New York"), None),                  # explicit non-EU location
+        (JH("Trading Internship", url="https://x.com/jobs/amsterdam-intern"), ["trading"]),  # EU hint in url
+    ]
+    fails = 0
+    for job, expected in cases:
+        got = match(job, EU)
+        if (set(got) if got else None) != (set(expected) if expected else None):
+            fails += 1
+            print(f"FAIL [html]: {job.title!r} (eu={job.assume_europe}, loc={job.location!r}) → {got}, expected {expected}")
+    print(f"[html] {len(cases) - fails}/{len(cases)} passed.")
+    return fails
+
+
 def run(name, filt, cases, loc_arg=False):
     fails = 0
     for row in cases:
@@ -78,6 +103,7 @@ def run(name, filt, cases, loc_arg=False):
 def main() -> int:
     fails = run("category", CAT, CAT_CASES)
     fails += run("europe+year", EU, EU_CASES, loc_arg=True)
+    fails += run_html()
     print("ALL PASS" if not fails else f"{fails} FAILURES")
     return 1 if fails else 0
 

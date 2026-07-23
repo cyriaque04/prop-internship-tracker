@@ -1,11 +1,14 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-17 16:07 UTC_
+_Last updated: 2026-07-23 14:44 UTC_
 
-**6 matching open role(s)** across tracked firms.
+**7 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
+
+## Da Vinci Trading
+- [Quant Trading Intern](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) — Amsterdam, North Holland, Netherlands  _(quant, trading)_
 
 ## Jump Trading
 - [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) — London; Amsterdam  _(quant)_

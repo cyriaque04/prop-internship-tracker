@@ -6,8 +6,8 @@ structuring** is posted. Only *new* postings trigger an alert — no repeats.
 
 - Pure Python **standard library** — no `pip install` needed.
 - Reads jobs from each firm's applicant tracking system (Greenhouse, Lever,
-  Ashby, SmartRecruiters, Workday) for clean, reliable data, with an HTML
-  fallback for plain pages.
+  Ashby, SmartRecruiters, Workday, Workable, Recruitee) for clean, reliable
+  data, with an HTML fallback for plain pages.
 - De-dup state is committed to the repo, so it survives across scheduled runs.
 
 ## Layout
@@ -94,6 +94,8 @@ Deeper patterns live in `prop_tracker/filters.py`.
 { "name": "SomeFirm",      "source": "ashby",           "org": "somefirm" }
 { "name": "SomeFirm",      "source": "smartrecruiters", "company": "SomeFirm" }
 { "name": "Optiver",       "source": "workday", "host": "optiver.wd3.myworkdayjobs.com", "tenant": "optiver", "site": "External" }
+{ "name": "SomeFirm",      "source": "workable",        "account": "somefirm" }
+{ "name": "SomeFirm",      "source": "recruitee",       "company": "somefirm" }
 { "name": "SomeFirm",      "source": "html",            "url": "https://somefirm.com/careers" }
 ```
 

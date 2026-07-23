@@ -63,36 +63,49 @@ def build_entry(name, source, m):
         return {"name": name, "source": "workday",
                 "host": f"{tenant}.{dc}.myworkdayjobs.com",
                 "tenant": tenant, "site": site}
+    if source == "workable":
+        return {"name": name, "source": "workable", "account": m}
+    if source == "recruitee":
+        return {"name": name, "source": "recruitee", "company": m}
     return {"name": name, "source": source, "raw": m}
 
 
+def detect_firm(firm: dict):
+    name = firm["name"]
+    base = firm["url"].rstrip("/")
+    tried = SUBPATHS if firm.get("probe_subpaths", True) else [""]
+    for sub in tried:
+        url = base + sub if sub else base
+        try:
+            text = http.get_text(url, timeout=12)
+        except HttpError:
+            continue
+        hits = detect(text)
+        if hits:
+            source, m = hits[0]
+            return build_entry(name, source, m), url
+    return None, None
+
+
 def main() -> int:
+    from concurrent.futures import ThreadPoolExecutor
+
     with open(sys.argv[1], encoding="utf-8") as fh:
         firms = json.load(fh)
+    workers = int(os.environ.get("DISCOVER_WORKERS", "12"))
 
     found = []
-    for firm in firms:
-        name = firm["name"]
-        base = firm["url"].rstrip("/")
-        detected = None
-        tried = SUBPATHS if firm.get("probe_subpaths", True) else [""]
-        for sub in tried:
-            url = base + sub if sub else base
-            try:
-                text = http.get_text(url, timeout=12)
-            except HttpError:
-                continue
-            hits = detect(text)
-            if hits:
-                # prefer non-generic matches (skip obvious false hits)
-                source, m = hits[0]
-                detected = build_entry(name, source, m)
-                print(f"{name:30s} → {source}: {m}   (via {url})")
-                break
-        if detected:
-            found.append(detected)
-        else:
-            print(f"{name:30s} → (no ATS signature found)")
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        results = pool.map(detect_firm, firms)
+        for firm, (entry, url) in zip(firms, results):
+            if entry:
+                found.append(entry)
+                src = entry["source"]
+                tok = entry.get("token") or entry.get("company") or \
+                    entry.get("org") or entry.get("tenant") or entry.get("raw")
+                print(f"{firm['name']:30s} → {src}: {tok}   (via {url})")
+            else:
+                print(f"{firm['name']:30s} → (no ATS signature found)")
 
     with open("tools/discovered.json", "w", encoding="utf-8") as fh:
         json.dump(found, fh, indent=2)

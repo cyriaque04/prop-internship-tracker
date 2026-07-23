@@ -197,6 +197,53 @@ def fetch_workday(firm: str, cfg: dict) -> list[Job]:
     return jobs
 
 
+def fetch_recruitee(firm: str, cfg: dict) -> list[Job]:
+    company = cfg["company"]
+    url = f"https://{company}.recruitee.com/api/offers/"
+    data = http.get_json(url)
+    jobs = []
+    for j in data.get("offers", []):
+        loc = ", ".join(filter(None, [j.get("city", ""), j.get("country", "")]))
+        jobs.append(
+            Job(
+                firm=firm,
+                title=j.get("title", "").strip(),
+                url=j.get("careers_url", "") or j.get("careers_apply_url", ""),
+                location=loc or j.get("location", ""),
+                department=j.get("department", "") or "",
+                source="recruitee",
+                raw_id=str(j.get("id", "")),
+            )
+        )
+    return jobs
+
+
+def fetch_workable(firm: str, cfg: dict) -> list[Job]:
+    account = cfg["account"]
+    # Public "jobs widget" API (no auth) used by embedded Workable boards.
+    url = f"https://apply.workable.com/api/v1/widget/accounts/{account}?details=true"
+    data = http.get_json(url)
+    jobs = []
+    for j in data.get("jobs", []):
+        loc = j.get("location", {}) or {}
+        loc_str = ", ".join(
+            x for x in (loc.get("city", ""), loc.get("country", "")) if x
+        )
+        shortcode = j.get("shortcode", "")
+        jobs.append(
+            Job(
+                firm=firm,
+                title=j.get("title", "").strip(),
+                url=j.get("url", "") or f"https://apply.workable.com/{account}/j/{shortcode}/",
+                location=loc_str,
+                department=j.get("department", "") or "",
+                source="workable",
+                raw_id=str(shortcode or j.get("id", "")),
+            )
+        )
+    return jobs
+
+
 _ANCHOR_RE = re.compile(
     r'<a\b[^>]*?href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
     re.IGNORECASE | re.DOTALL,
@@ -240,6 +287,8 @@ _FETCHERS = {
     "ashby": fetch_ashby,
     "smartrecruiters": fetch_smartrecruiters,
     "workday": fetch_workday,
+    "recruitee": fetch_recruitee,
+    "workable": fetch_workable,
     "html": fetch_html,
 }
 

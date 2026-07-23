@@ -1,0 +1,16 @@
+[
+  {"name": "Ansatz Capital", "source": "lever", "company": "ansatzcapital"},
+  {"name": "Da Vinci Trading", "source": "greenhouse", "token": "davinciderivatives"},
+  {"name": "Trillium Trading", "source": "greenhouse", "token": "trillium"},
+  {"name": "Xantium", "source": "greenhouse", "token": "xantium"},
+  {"name": "Chimera Securities", "source": "workable", "account": "chimera-securities-llc"},
+  {"name": "Tibra", "source": "workable", "account": "tibra-capital-1"},
+  {"name": "Mathrix", "source": "recruitee", "company": "mathrix"},
+  {"name": "Chicago Trading Company", "source": "greenhouse", "token": "chicagotradingcompanyctc"},
+  {"name": "PEAK6", "source": "greenhouse", "token": "peak6group"},
+  {"name": "Quadeye", "source": "greenhouse", "token": "quadeyesecurities"},
+  {"name": "Squarepoint Capital", "source": "greenhouse", "token": "squarepoint"},
+  {"name": "Wolverine Trading", "source": "greenhouse", "token": "wolverinetradingllc"},
+  {"name": "NK Securities", "source": "greenhouse", "token": "nksecuritiesresearch"},
+  {"name": "G-Research", "source": "greenhouse", "token": "gresearch"}
+]

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-24 13:52 UTC_
+_Last updated: 2026-07-24 19:12 UTC_
 
 **7 matching open role(s)** across tracked firms.
 
@@ -18,3 +18,7 @@ _Last updated: 2026-07-24 13:52 UTC_
 ## VIRTU Financial
 - [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
+
+## ⚠️ Firms that could not be checked this run
+- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
+- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable

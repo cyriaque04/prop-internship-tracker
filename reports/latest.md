@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-25 13:54 UTC_
+_Last updated: 2026-07-25 18:54 UTC_
 
 **9 matching open role(s)** across tracked firms.
 
@@ -29,28 +29,5 @@ _Last updated: 2026-07-25 13:54 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Ansatz Capital**: URL error for https://api.lever.co/v0/postings/ansatzcapital?mode=json: timed out
-- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
-- **Belvedere Trading**: URL error for https://api.lever.co/v0/postings/belvederetrading?mode=json: timed out
-- **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
-- **Chicago Trading Company**: URL error for https://www.chicagotrading.com/careers: timed out
-- **D2X**: URL error for https://www.d2x.com/careers: timed out
-- **DSV Fund**: HTTP 401 for https://www.dsvfund.com
-- **Eclipse Trading**: URL error for https://www.eclipsetrading.com/careers: timed out
-- **Elliott Management**: URL error for https://www.elliott.com: timed out
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Gift Street Capital**: URL error for https://www.giftstreetcapital.com: [Errno 101] Network is unreachable
-- **Graviton Research Capital**: URL error for https://www.gravitontrading.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
-- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
-- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
-- **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
+- **Cross Options**: HTTP 429 for https://www.crossoptions.net/join-us
 - **Optica**: HTTP 403 for https://www.optica.com/careers
-- **Priogen Energy**: URL error for https://priogen.com/careers: timed out
-- **Quadeye**: URL error for https://www.quadeye.com/careers: timed out
-- **Seven Points Capital**: URL error for https://www.sevenpointscapital.com: timed out
-- **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
-- **Waterfront International Ltd**: URL error for https://www.waterfront.io: timed out
-- **XY Capital**: URL error for https://www.xycapitalgroup.com/careers: timed out

@@ -52,11 +52,31 @@ EUROPE_KEYWORDS = [
     "oslo", "helsinki", "warsaw", "prague", "vienna", "brussels",
     "luxembourg", "gibraltar", "malta", "monaco", "rotterdam", "the hague",
     "manchester", "edinburgh", "cambridge", "oxford", "cluj", "sofia",
+    "bratislava", "budapest", "athens", "bucharest", "tallinn", "riga",
+    "vilnius", "ljubljana", "zagreb", "valletta", "nicosia", "reykjavik",
+    "the hague", "eindhoven", "utrecht", "hamburg", "dusseldorf", "cork",
     # countries / regions
     "united kingdom", "uk", "england", "scotland", "ireland", "netherlands",
     "france", "germany", "switzerland", "italy", "spain", "portugal",
-    "sweden", "denmark", "norway", "finland", "poland", "czech", "austria",
-    "belgium", "romania", "bulgaria", "europe", "emea", "european",
+    "sweden", "denmark", "norway", "finland", "poland", "czech", "slovakia",
+    "hungary", "greece", "austria", "belgium", "romania", "bulgaria",
+    "croatia", "slovenia", "estonia", "latvia", "lithuania", "cyprus",
+    "europe", "emea", "european",
+]
+
+# Explicit non-European locations. If a role names one of these and no European
+# location, it's dropped — even for html firms tagged assume_europe (their global
+# firm may post roles worldwide). Keeps the Europe-only requirement honest.
+NON_EUROPE_KEYWORDS = [
+    "singapore", "hong kong", "new york", "chicago", "san francisco",
+    "sydney", "melbourne", "shanghai", "beijing", "shenzhen", "hangzhou",
+    "tokyo", "osaka", "mumbai", "bangalore", "bengaluru", "gurgaon", "gurugram",
+    "delhi", "hyderabad", "dubai", "abu dhabi", "toronto", "montreal",
+    "houston", "austin", "boston", "los angeles", "seattle", "miami",
+    "washington", "dallas", "atlanta", "seoul", "taipei", "jakarta",
+    "kuala lumpur", "sao paulo", "tel aviv", "ho chi minh", "hanoi",
+    "manila", "bangkok", "shenshen", "united states", "u.s.", "usa",
+    "australia", "singpore", "india", "china", "japan", "brazil", "canada",
 ]
 
 
@@ -68,6 +88,8 @@ class Filters:
     min_year: int | None = 2027
     location_keywords: list[str] = field(
         default_factory=lambda: list(EUROPE_KEYWORDS))
+    block_keywords: list[str] = field(
+        default_factory=lambda: list(NON_EUROPE_KEYWORDS))
     # keep roles whose location string is empty/unknown (rare) instead of dropping
     keep_unknown_location: bool = True
 
@@ -84,6 +106,8 @@ class Filters:
             f.min_year = cfg["min_year"]  # may be null to disable
         if "location_keywords" in cfg:
             f.location_keywords = [k.lower() for k in cfg["location_keywords"]]
+        if "block_keywords" in cfg:
+            f.block_keywords = [k.lower() for k in cfg["block_keywords"]]
         if "keep_unknown_location" in cfg:
             f.keep_unknown_location = bool(cfg["keep_unknown_location"])
         return f
@@ -92,6 +116,12 @@ class Filters:
         if not self.location_keywords:
             return None
         pat = "|".join(r"\b" + re.escape(k) + r"\b" for k in self.location_keywords)
+        return re.compile(pat, re.IGNORECASE)
+
+    def _block_re(self):
+        if not self.block_keywords:
+            return None
+        pat = "|".join(r"\b" + re.escape(k) + r"\b" for k in self.block_keywords)
         return re.compile(pat, re.IGNORECASE)
 
 
@@ -125,7 +155,12 @@ def _location_ok(job: Job, filt: Filters) -> bool:
     # Look at location + title + url, since some bake the city into those.
     hay = " ".join(filter(None, [job.location, job.title, job.url]))
     if loc_re.search(hay):
-        return True
+        return True  # a wanted (European) location wins even if others appear
+    # A named non-European location and no European one → drop (helps html firms
+    # whose global parent posts worldwide, e.g. an Amsterdam firm's Singapore role).
+    block_re = filt._block_re()
+    if block_re and block_re.search(hay):
+        return False
     # No explicit location signal anywhere.
     if job.location:
         return False  # had a location, just not a wanted one

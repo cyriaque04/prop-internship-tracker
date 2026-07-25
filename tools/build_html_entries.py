@@ -22,6 +22,12 @@ EUROPEAN_FIRMS = {
     "squarepoint capital", "b2c2", "gsr", "wintermute", "woorton", "d2x",
     "otc flow", "deep blue capital", "ora traders", "keyquant", "all options",
     "webb traders", "northpool", "nino options", "323 trading", "priogen energy",
+    # v2 additions (clearly European HQ)
+    "optiver", "wincent", "abc arbitrage", "aarhus trading", "apolis sam",
+    "arfima trading", "aureas finance", "danske commodities", "aros commodities",
+    "incommodities", "incommodities asset management", "brevan howard",
+    "capital fund management (cfm)", "cfm", "glencore", "vitol", "trafigura",
+    "gunvor group", "invemo capital ag", "ethflow", "axinoss",
 }
 
 # Skip: duplicate of an already-tracked firm (same board), or not useful.

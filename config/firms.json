@@ -14,6 +14,12 @@
       "assume_europe": false
     },
     {
+      "name": "ABC Arbitrage",
+      "source": "html",
+      "url": "https://www.abc-arbitrage.com/careers",
+      "assume_europe": true
+    },
+    {
       "name": "Acadian Asset Management",
       "source": "html",
       "url": "https://www.acadian-asset.com/careers",
@@ -83,10 +89,40 @@
       "token": "aquaticcapitalmanagement"
     },
     {
+      "name": "Aquion",
+      "source": "html",
+      "url": "https://www.aquion.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Arfima Trading",
+      "source": "html",
+      "url": "https://www.arfima.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "Armada Technologies",
+      "source": "html",
+      "url": "https://www.armadatechnologies.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Aros Commodities",
+      "source": "html",
+      "url": "https://www.aroscommodities.com",
+      "assume_europe": true
+    },
+    {
       "name": "Arrowstreet Capital",
       "source": "html",
       "url": "https://www.arrowstreetcapital.com/join-us",
       "assume_europe": false
+    },
+    {
+      "name": "Aureas Finance",
+      "source": "html",
+      "url": "https://www.aureasfinance.com",
+      "assume_europe": true
     },
     {
       "name": "B2C2",
@@ -107,9 +143,27 @@
       "assume_europe": false
     },
     {
+      "name": "Barclays",
+      "source": "html",
+      "url": "https://www.barclays.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Bastion Trading",
+      "source": "html",
+      "url": "https://www.bastiontrading.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "Belvedere Trading",
       "source": "lever",
       "company": "belvederetrading"
+    },
+    {
+      "name": "Birkoa Capital Management",
+      "source": "html",
+      "url": "https://www.birkoa.com/careers",
+      "assume_europe": false
     },
     {
       "name": "Black Eagle Financial Group",
@@ -135,6 +189,59 @@
       "assume_europe": false
     },
     {
+      "name": "Bracebridge Capital",
+      "source": "greenhouse",
+      "token": "bracebridgecapital"
+    },
+    {
+      "name": "Brevan Howard",
+      "source": "html",
+      "url": "https://www.brevanhoward.com/careers/",
+      "assume_europe": true
+    },
+    {
+      "name": "Bridgewater Associates",
+      "source": "html",
+      "url": "https://www.bridgewater-associates.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Caladan",
+      "source": "html",
+      "url": "https://www.caladan.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Campbell and Company",
+      "source": "html",
+      "url": "https://www.campbellandcompany.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Capital Fund Management (CFM)",
+      "source": "html",
+      "url": "https://www.capitalfund.com",
+      "assume_europe": true
+    },
+    {
+      "name": "Capstone Trading Inc.",
+      "source": "html",
+      "url": "https://www.capstone.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Cascade Systems",
+      "source": "html",
+      "url": "https://www.cascadesystems.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Charlesworth Research",
+      "source": "html",
+      "url": "https://www.charlesworthresearch.com/careers",
+      "assume_europe": true
+    },
+    {
       "name": "Chicago Trading Company",
       "source": "html",
       "url": "https://www.chicagotrading.com/careers",
@@ -155,6 +262,24 @@
       "name": "Consolidated Trading",
       "source": "html",
       "url": "http://www.consolidatedtrading.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Contek (Contrarian Technology)",
+      "source": "html",
+      "url": "https://www.contek.io",
+      "assume_europe": false
+    },
+    {
+      "name": "Cor Capital",
+      "source": "html",
+      "url": "https://www.corcapital.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Crabel Capital Management",
+      "source": "html",
+      "url": "https://www.crabel.com/careers",
       "assume_europe": false
     },
     {
@@ -181,15 +306,45 @@
       "token": "davinciderivatives"
     },
     {
+      "name": "Danske Commodities",
+      "source": "html",
+      "url": "https://www.danskecommodities.com/careers",
+      "assume_europe": true
+    },
+    {
       "name": "Deep Blue Capital",
       "source": "html",
       "url": "https://deepbluecap.com/vacancies",
       "assume_europe": true
     },
     {
+      "name": "DNB Carnegie",
+      "source": "html",
+      "url": "https://www.dnbcarnegie.com/career",
+      "assume_europe": false
+    },
+    {
+      "name": "Dolat Capital",
+      "source": "html",
+      "url": "https://www.dolatcapital.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Domeyard LP",
+      "source": "html",
+      "url": "https://www.domeyard.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "DRW",
       "source": "html",
       "url": "https://drw.com",
+      "assume_europe": false
+    },
+    {
+      "name": "DSV Fund",
+      "source": "html",
+      "url": "https://www.dsvfund.com",
       "assume_europe": false
     },
     {
@@ -201,6 +356,12 @@
       "name": "DWF Labs",
       "source": "html",
       "url": "https://www.dwf-labs.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Dymon Asia",
+      "source": "html",
+      "url": "https://www.dymonasia.com/join",
       "assume_europe": false
     },
     {
@@ -216,10 +377,46 @@
       "assume_europe": false
     },
     {
+      "name": "Elliott Management",
+      "source": "html",
+      "url": "https://www.elliott.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Enigma Quant Capital",
+      "source": "html",
+      "url": "https://www.enigmaquant.com",
+      "assume_europe": false
+    },
+    {
       "name": "Epoch Capital",
       "source": "html",
       "url": "https://epoch.capital/careers",
       "assume_europe": false
+    },
+    {
+      "name": "Estee Advisors",
+      "source": "html",
+      "url": "https://www.esteeadvisors.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "Euclidean Technologies",
+      "source": "html",
+      "url": "https://www.euclidean.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "ExodusPoint Capital",
+      "source": "html",
+      "url": "https://www.exoduspoint.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Final",
+      "source": "html",
+      "url": "https://www.final.com/careers",
+      "assume_europe": true
     },
     {
       "name": "Five Rings",
@@ -230,6 +427,18 @@
       "name": "Flow Traders",
       "source": "greenhouse",
       "token": "flowtraders"
+    },
+    {
+      "name": "Freepoint Commodities",
+      "source": "html",
+      "url": "https://www.freepointcommodities.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "Futures First",
+      "source": "html",
+      "url": "https://www.futuresfirst.com/careers",
+      "assume_europe": false
     },
     {
       "name": "G-Research",
@@ -251,6 +460,30 @@
       "name": "Genk Capital",
       "source": "html",
       "url": "https://genkcapital.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Gift Street Capital",
+      "source": "html",
+      "url": "https://www.giftstreetcapital.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Glencore",
+      "source": "html",
+      "url": "https://www.glencore.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "GMO",
+      "source": "html",
+      "url": "https://www.gmo.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Goldman Sachs",
+      "source": "html",
+      "url": "https://www.goldmansachs.com/careers",
       "assume_europe": false
     },
     {
@@ -278,10 +511,28 @@
       "assume_europe": false
     },
     {
+      "name": "GSA Capital",
+      "source": "greenhouse",
+      "token": "gsacapital"
+    },
+    {
       "name": "GSR",
       "source": "html",
       "url": "https://www.gsr.io/careers",
       "assume_europe": true
+    },
+    {
+      "name": "Gunvor Group",
+      "source": "workday",
+      "host": "gunvor.wd3.myworkdayjobs.com",
+      "tenant": "gunvor",
+      "site": "Gunvor_Careers"
+    },
+    {
+      "name": "HBK Capital Management",
+      "source": "html",
+      "url": "https://hbkcapitalmanagement.com/careers",
+      "assume_europe": false
     },
     {
       "name": "Headlands Technology",
@@ -295,10 +546,46 @@
       "note": "Only the talent-community board was auto-detectable; HRT's main campus board may live elsewhere."
     },
     {
+      "name": "Hyperithm",
+      "source": "html",
+      "url": "https://www.hyperithm.com",
+      "assume_europe": false
+    },
+    {
       "name": "IMC Trading",
       "source": "html",
       "url": "https://www.imc.com",
       "assume_europe": true
+    },
+    {
+      "name": "InCommodities",
+      "source": "html",
+      "url": "https://www.incommodities.com/join-us",
+      "assume_europe": true
+    },
+    {
+      "name": "InCommodities Asset Management",
+      "source": "html",
+      "url": "https://www.incommodities.com/join-us",
+      "assume_europe": true
+    },
+    {
+      "name": "Independent Trading Group (ITG)",
+      "source": "html",
+      "url": "https://www.independent.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "J.E. Moody & Company LLC",
+      "source": "html",
+      "url": "https://www.jemoody.com",
+      "assume_europe": false
+    },
+    {
+      "name": "J.P. Morgan",
+      "source": "html",
+      "url": "https://www.jpmorgan.com/careers",
+      "assume_europe": false
     },
     {
       "name": "Jane Street",
@@ -316,6 +603,12 @@
       "name": "Jump Trading",
       "source": "greenhouse",
       "token": "jumptrading"
+    },
+    {
+      "name": "Kadima Asset Management",
+      "source": "html",
+      "url": "https://www.kadima.com",
+      "assume_europe": false
     },
     {
       "name": "Kershner Trading Group",
@@ -352,9 +645,33 @@
       "assume_europe": false
     },
     {
+      "name": "Lone Pine Capital",
+      "source": "html",
+      "url": "https://www.lonepinecapital.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Los Angeles Capital Management",
+      "source": "html",
+      "url": "https://www.losangeles.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Lucida",
+      "source": "html",
+      "url": "https://www.lucida.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "Mako Trading",
       "source": "greenhouse",
       "token": "mako"
+    },
+    {
+      "name": "Man Group (Man AHL)",
+      "source": "html",
+      "url": "https://www.mangroup.com/careers",
+      "assume_europe": false
     },
     {
       "name": "Market Wizards",
@@ -397,9 +714,50 @@
       "assume_europe": false
     },
     {
+      "name": "Mercuria",
+      "source": "html",
+      "url": "https://www.mercuria.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Mercuria Energy America",
+      "source": "html",
+      "url": "https://www.mercuriaenergy.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Mercuria Energy Group",
+      "source": "html",
+      "url": "https://www.mercuriaenergy.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Midpoint Markets",
+      "source": "greenhouse",
+      "token": "midpointmarkets"
+    },
+    {
       "name": "Millennium",
       "source": "html",
       "url": "https://www.mlp.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Morgan Stanley",
+      "source": "html",
+      "url": "https://www.morganstanley.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Murano Group",
+      "source": "html",
+      "url": "https://www.muranogroup.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Nebula Research",
+      "source": "html",
+      "url": "https://www.nebularesearch.com",
       "assume_europe": false
     },
     {
@@ -407,6 +765,12 @@
       "source": "html",
       "url": "https://www.nino-options.nl",
       "assume_europe": true
+    },
+    {
+      "name": "Nitor Energy",
+      "source": "html",
+      "url": "https://www.nitorenergy.com/careers",
+      "assume_europe": false
     },
     {
       "name": "NK Securities",
@@ -420,9 +784,39 @@
       "assume_europe": true
     },
     {
+      "name": "Numerai",
+      "source": "html",
+      "url": "https://www.numerai.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Old Growth Harbor LLC",
+      "source": "html",
+      "url": "https://www.oldgrowthharbor.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "Old Mission Capital",
       "source": "greenhouse",
       "token": "oldmissioncapital"
+    },
+    {
+      "name": "Open Futures Group",
+      "source": "html",
+      "url": "https://www.open-futures.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Optica",
+      "source": "html",
+      "url": "https://www.optica.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Optiver",
+      "source": "html",
+      "url": "https://www.optiver.com/careers",
+      "assume_europe": true
     },
     {
       "name": "ORA Traders",
@@ -431,15 +825,44 @@
       "assume_europe": true
     },
     {
+      "name": "OSF Management",
+      "source": "html",
+      "url": "https://www.osfmanagement.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "OTC Flow",
       "source": "html",
       "url": "https://www.otcflow.com/careers",
       "assume_europe": true
     },
     {
+      "name": "PanAgora Asset Management",
+      "source": "html",
+      "url": "https://www.panagora.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "PDT Partners",
+      "source": "greenhouse",
+      "token": "pdtpartners"
+    },
+    {
       "name": "PEAK6",
       "source": "html",
       "url": "https://peak6.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Plutus Research",
+      "source": "html",
+      "url": "https://www.plutusresearch.com/careers",
+      "assume_europe": true
+    },
+    {
+      "name": "Premonition",
+      "source": "html",
+      "url": "https://www.premonition.com",
       "assume_europe": false
     },
     {
@@ -455,9 +878,38 @@
       "assume_europe": true
     },
     {
+      "name": "QCP Capital",
+      "source": "html",
+      "url": "https://www.qcpcapital.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "Quadeye",
       "source": "html",
       "url": "https://www.quadeye.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Quadrature",
+      "source": "html",
+      "url": "https://www.quadrature.io",
+      "assume_europe": false
+    },
+    {
+      "name": "Quadrature Capital (QRT)",
+      "source": "greenhouse",
+      "token": "quadraturecapital"
+    },
+    {
+      "name": "Quant Matter",
+      "source": "html",
+      "url": "https://www.quantmatter.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Quantbox Research",
+      "source": "html",
+      "url": "https://www.quantboxresearch.com/careers",
       "assume_europe": false
     },
     {
@@ -467,9 +919,39 @@
       "assume_europe": false
     },
     {
+      "name": "Quantlane",
+      "source": "html",
+      "url": "https://www.quantlane.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Quantrend Technology",
+      "source": "html",
+      "url": "https://www.quantrend.com",
+      "assume_europe": false
+    },
+    {
       "name": "Radix Trading",
       "source": "greenhouse",
       "token": "radixuniversity"
+    },
+    {
+      "name": "Renaissance",
+      "source": "html",
+      "url": "https://www.renaissance.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Revolution Capital Management",
+      "source": "html",
+      "url": "https://www.revolution.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Saccade Capital",
+      "source": "html",
+      "url": "https://www.saccadecapital.com",
+      "assume_europe": false
     },
     {
       "name": "Savius",
@@ -482,6 +964,11 @@
       "source": "html",
       "url": "https://scalptrade.com/careers",
       "assume_europe": false
+    },
+    {
+      "name": "Schonfeld",
+      "source": "greenhouse",
+      "token": "schonfeld"
     },
     {
       "name": "Seven Points Capital",
@@ -501,10 +988,34 @@
       "token": "simplextrading"
     },
     {
+      "name": "Sovereign Blue Capital",
+      "source": "html",
+      "url": "https://sovereignbluecapital.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Spatium Capital",
+      "source": "html",
+      "url": "https://www.spatiumcapital.com",
+      "assume_europe": false
+    },
+    {
+      "name": "SQM Technologies",
+      "source": "html",
+      "url": "https://www.sqmtechnologies.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "Squarepoint Capital",
       "source": "html",
       "url": "https://www.squarepoint-capital.com",
       "assume_europe": true
+    },
+    {
+      "name": "Stronghold Capital Management",
+      "source": "html",
+      "url": "https://www.stronghold.com/careers",
+      "assume_europe": false
     },
     {
       "name": "Sumo",
@@ -516,6 +1027,18 @@
       "name": "T3 Trading Group",
       "source": "html",
       "url": "https://t3trading.com/join",
+      "assume_europe": false
+    },
+    {
+      "name": "TCI Fund Management",
+      "source": "html",
+      "url": "https://www.tci.co/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "TGS",
+      "source": "html",
+      "url": "https://www.tgs.com/careers",
       "assume_europe": false
     },
     {
@@ -535,6 +1058,19 @@
       "assume_europe": false
     },
     {
+      "name": "Trafigura",
+      "source": "workday",
+      "host": "trafigura.wd3.myworkdayjobs.com",
+      "tenant": "trafigura",
+      "site": "TrafiguraCareerSite"
+    },
+    {
+      "name": "Trafigura (Trafigura Commodities Sàrl)",
+      "source": "html",
+      "url": "https://www.trafigura.com/careers",
+      "assume_europe": false
+    },
+    {
       "name": "TransMarket Group",
       "source": "greenhouse",
       "token": "transmarketgroup"
@@ -551,9 +1087,27 @@
       "token": "trillium"
     },
     {
+      "name": "TSY Capital",
+      "source": "html",
+      "url": "https://www.tsycapital.com",
+      "assume_europe": false
+    },
+    {
       "name": "Two Sigma",
       "source": "html",
       "url": "https://www.twosigma.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Universa Investments",
+      "source": "html",
+      "url": "https://www.universa.net",
+      "assume_europe": false
+    },
+    {
+      "name": "UTR8 Group",
+      "source": "html",
+      "url": "https://www.utr8.com/careers",
       "assume_europe": false
     },
     {
@@ -568,14 +1122,49 @@
       "token": "vaticlabs"
     },
     {
+      "name": "Verition Fund Management",
+      "source": "html",
+      "url": "https://www.verition.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "VICI Holdings",
+      "source": "html",
+      "url": "https://www.viciholdings.com",
+      "assume_europe": false
+    },
+    {
       "name": "VIRTU Financial",
       "source": "greenhouse",
       "token": "virtu"
     },
     {
+      "name": "Vitol",
+      "source": "smartrecruiters",
+      "company": "Vitol"
+    },
+    {
       "name": "VivCourt Trading",
       "source": "html",
       "url": "https://www.vivcourt.com/careers",
+      "assume_europe": false
+    },
+    {
+      "name": "Voloridge Investment Management",
+      "source": "html",
+      "url": "https://www.voloridge.com",
+      "assume_europe": false
+    },
+    {
+      "name": "VS Capital",
+      "source": "html",
+      "url": "https://www.vscapital.com",
+      "assume_europe": false
+    },
+    {
+      "name": "Waterfront International Ltd",
+      "source": "html",
+      "url": "https://www.waterfront.io",
       "assume_europe": false
     },
     {
@@ -591,10 +1180,22 @@
       "assume_europe": false
     },
     {
+      "name": "Wincent",
+      "source": "html",
+      "url": "https://www.wincent.com/careers",
+      "assume_europe": true
+    },
+    {
       "name": "Wintermute",
       "source": "html",
       "url": "https://www.wintermute.com/careers",
       "assume_europe": true
+    },
+    {
+      "name": "Winton Group",
+      "source": "html",
+      "url": "https://www.winton.com",
+      "assume_europe": false
     },
     {
       "name": "Wolverine Trading",
@@ -639,6 +1240,12 @@
       "name": "Z.R.T.X.",
       "source": "html",
       "url": "https://www.accentgroupe.com/career",
+      "assume_europe": false
+    },
+    {
+      "name": "Z22 Technologies AG",
+      "source": "html",
+      "url": "https://z22.co",
       "assume_europe": false
     }
   ]

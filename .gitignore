@@ -10,3 +10,12 @@ __pycache__/
 tools/discovered.json
 tools/verified.json
 tools/*.log
+# Throwaway discovery/probe intermediates
+tools/discovered_*.json
+tools/candidates*.json
+tools/verified_*.json
+tools/firms_v2_*.json
+tools/firm_urls_v2.json
+tools/html_entries.json
+tools/html_firms.json
+tools/ambiguous.json

@@ -11,9 +11,25 @@
     "oslo", "helsinki", "warsaw", "prague", "vienna", "brussels",
     "luxembourg", "gibraltar", "malta", "monaco", "rotterdam", "the hague",
     "manchester", "edinburgh", "cambridge", "oxford", "cluj", "sofia",
+    "bratislava", "budapest", "athens", "bucharest", "tallinn", "riga",
+    "vilnius", "ljubljana", "zagreb", "valletta", "nicosia", "reykjavik",
+    "eindhoven", "utrecht", "hamburg", "dusseldorf", "cork",
     "united kingdom", "uk", "england", "scotland", "ireland", "netherlands",
     "france", "germany", "switzerland", "italy", "spain", "portugal",
-    "sweden", "denmark", "norway", "finland", "poland", "czech", "austria",
-    "belgium", "romania", "bulgaria", "europe", "emea", "european"
+    "sweden", "denmark", "norway", "finland", "poland", "czech", "slovakia",
+    "hungary", "greece", "austria", "belgium", "romania", "bulgaria",
+    "croatia", "slovenia", "estonia", "latvia", "lithuania", "cyprus",
+    "europe", "emea", "european"
+  ],
+  "block_keywords": [
+    "singapore", "hong kong", "new york", "chicago", "san francisco",
+    "sydney", "melbourne", "shanghai", "beijing", "shenzhen", "hangzhou",
+    "tokyo", "osaka", "mumbai", "bangalore", "bengaluru", "gurgaon", "gurugram",
+    "delhi", "hyderabad", "dubai", "abu dhabi", "toronto", "montreal",
+    "houston", "austin", "boston", "los angeles", "seattle", "miami",
+    "washington", "dallas", "atlanta", "seoul", "taipei", "jakarta",
+    "kuala lumpur", "sao paulo", "tel aviv", "ho chi minh", "hanoi",
+    "manila", "bangkok", "united states", "usa", "australia", "india",
+    "china", "japan", "brazil", "canada"
   ]
 }

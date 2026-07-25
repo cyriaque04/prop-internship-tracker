@@ -72,6 +72,13 @@ def run_html():
         (JH("Trading Intern", location="London"), ["trading"]),             # explicit EU location
         (JH("Trading Intern", location="New York"), None),                  # explicit non-EU location
         (JH("Trading Internship", url="https://x.com/jobs/amsterdam-intern"), ["trading"]),  # EU hint in url
+        # European firm, but role names a non-European city → blocked
+        (JH("Quantitative Trading Internship (Singapore) - 2027", assume_europe=True), None),
+        (JH("Trading Intern Hong Kong", assume_europe=True), None),
+        # European city not previously listed is now recognised
+        (JH("Quantitative Research Internship Summer 2027 Bratislava", assume_europe=True), ["quant"]),
+        # both a European and non-European city → European wins
+        (JH("Quant Intern - London / Singapore", assume_europe=False), ["quant"]),
     ]
     fails = 0
     for job, expected in cases:

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-25 08:10 UTC_
+_Last updated: 2026-07-25 12:44 UTC_
 
 **9 matching open role(s)** across tracked firms.
 
@@ -30,3 +30,5 @@ _Last updated: 2026-07-25 08:10 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
+- **Cross Options**: HTTP 429 for https://www.crossoptions.net/join-us
+- **Optica**: HTTP 403 for https://www.optica.com/careers

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-28 14:19 UTC_
+_Last updated: 2026-07-28 19:09 UTC_
 
 **9 matching open role(s)** across tracked firms.
 
@@ -19,7 +19,7 @@ _Last updated: 2026-07-28 14:19 UTC_
 - [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) — London; Amsterdam  _(quant, trading)_
 
 ## VIRTU Financial
-- [2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
+- [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
 
 ## Wincent
@@ -29,7 +29,6 @@ _Last updated: 2026-07-28 14:19 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **3Red Partners**: Request failed for https://www.3redpartners.com/careers: The read operation timed out
 - **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

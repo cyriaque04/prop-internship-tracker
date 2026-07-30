@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-07-30 08:34 UTC_
+_Last updated: 2026-07-30 11:24 UTC_
 
 **9 matching open role(s)** across tracked firms.
 
@@ -29,6 +29,6 @@ _Last updated: 2026-07-30 08:34 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
+- **Black Eagle Financial Group**: Request failed for https://blackeaglefg.com/jobs: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

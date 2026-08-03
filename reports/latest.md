@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-03 09:53 UTC_
+_Last updated: 2026-08-03 14:50 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -19,7 +19,7 @@ _Last updated: 2026-08-03 09:53 UTC_
 - [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) — London; Amsterdam  _(quant, trading)_
 
 ## Maven Securities
-- [Quant Trader Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London  _(quant, trading)_
+- [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London  _(quant, trading)_
 
 ## VIRTU Financial
 - [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
@@ -33,7 +33,5 @@ _Last updated: 2026-08-03 09:53 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Cross Options**: HTTP 429 for https://www.crossoptions.net/join-us
-- **DSV Fund**: Request failed for https://www.dsvfund.com: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer

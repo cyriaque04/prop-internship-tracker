@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-03 19:21 UTC_
+_Last updated: 2026-08-04 08:44 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -33,6 +33,6 @@ _Last updated: 2026-08-03 19:21 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Cross Options**: HTTP 429 for https://www.crossoptions.net/join-us
-- **Mercuria Energy America**: Request failed for https://www.mercuriaenergy.com/careers: The read operation timed out
+- **Kershner Trading Group**: URL error for https://www.kershnertrading.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

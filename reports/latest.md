@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-06 08:43 UTC_
+_Last updated: 2026-08-06 14:24 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -32,6 +32,7 @@ _Last updated: 2026-08-06 08:43 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
+- **DSV Fund**: Request failed for https://www.dsvfund.com: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer

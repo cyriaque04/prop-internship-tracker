@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-06 14:24 UTC_
+_Last updated: 2026-08-06 23:52 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -32,7 +32,10 @@ _Last updated: 2026-08-06 14:24 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **DSV Fund**: Request failed for https://www.dsvfund.com: The read operation timed out
+- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
+- **Chicago Trading Company**: HTTP 403 for https://www.chicagotrading.com/careers
+- **Cross Options**: HTTP 429 for https://www.crossoptions.net/join-us
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
+- **Premonition**: HTTP 403 for https://www.premonition.com
+- **XR Trading**: HTTP 403 for https://xrtrading.com

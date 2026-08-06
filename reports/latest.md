@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-05 19:17 UTC_
+_Last updated: 2026-08-06 08:43 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -32,6 +32,6 @@ _Last updated: 2026-08-05 19:17 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-07 18:43 UTC_
+_Last updated: 2026-08-08 07:01 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -33,5 +33,7 @@ _Last updated: 2026-08-07 18:43 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Gunvor Group**: Expecting value: line 1 column 1 (char 0)
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Trafigura**: Expecting value: line 1 column 1 (char 0)

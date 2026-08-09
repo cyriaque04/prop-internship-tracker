@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-09 07:03 UTC_
+_Last updated: 2026-08-09 13:01 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -33,5 +33,6 @@ _Last updated: 2026-08-09 07:03 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

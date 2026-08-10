@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-10 07:49 UTC_
+_Last updated: 2026-08-10 13:20 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -32,8 +32,13 @@ _Last updated: 2026-08-10 07:49 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
-- **Kershner Trading Group**: URL error for https://www.kershnertrading.com: timed out
+- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
+- **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
+- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
+- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Savius**: URL error for https://savius.com: timed out
+- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out

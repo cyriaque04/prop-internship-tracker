@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-11 13:18 UTC_
+_Last updated: 2026-08-11 18:50 UTC_
 
 **10 matching open role(s)** across tracked firms.
 
@@ -32,15 +32,9 @@ _Last updated: 2026-08-11 13:18 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
+- **ABC Arbitrage**: Request failed for https://www.abc-arbitrage.com/careers: The read operation timed out
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
-- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
-- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Savius**: URL error for https://savius.com: timed out
-- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
+- **Plutus Research**: URL error for https://www.plutusresearch.com/careers: [Errno -3] Temporary failure in name resolution

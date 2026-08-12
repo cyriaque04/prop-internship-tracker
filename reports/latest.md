@@ -1,11 +1,14 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-12 13:20 UTC_
+_Last updated: 2026-08-12 18:49 UTC_
 
-**11 matching open role(s)** across tracked firms.
+**12 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
+
+## DV Trading
+- [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London  _(trading)_
 
 ## Da Vinci Trading
 - [Quant Trading Intern](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4196845101) — Amsterdam, North Holland, Netherlands  _(quant, trading)_
@@ -36,8 +39,6 @@ _Last updated: 2026-08-12 13:20 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Cascade Systems**: HTTP 504 for https://www.cascadesystems.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **QCP Capital**: Request failed for https://www.qcpcapital.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

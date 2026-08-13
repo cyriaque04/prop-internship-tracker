@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-13 07:42 UTC_
+_Last updated: 2026-08-13 13:22 UTC_
 
 **12 matching open role(s)** across tracked firms.
 
@@ -39,12 +39,8 @@ _Last updated: 2026-08-13 07:42 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
-- **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
-- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
-- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
+- **Enigma Quant Capital**: Request failed for https://www.enigmaquant.com: The read operation timed out
+- **Gift Street Capital**: HTTP 500 for https://www.giftstreetcapital.com
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Savius**: URL error for https://savius.com: timed out
-- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

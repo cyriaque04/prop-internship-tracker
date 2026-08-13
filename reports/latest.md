@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-13 13:22 UTC_
+_Last updated: 2026-08-13 18:50 UTC_
 
 **12 matching open role(s)** across tracked firms.
 
@@ -38,9 +38,22 @@ _Last updated: 2026-08-13 13:22 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
+- **323 Trading**: HTTP 403 for https://323trading.nl
+- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
+- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
 - **Capital Fund Management (CFM)**: URL error for https://www.capitalfund.com: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Chicago Trading Company**: HTTP 403 for https://www.chicagotrading.com/careers
+- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
 - **Enigma Quant Capital**: Request failed for https://www.enigmaquant.com: The read operation timed out
-- **Gift Street Capital**: HTTP 500 for https://www.giftstreetcapital.com
+- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
+- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
+- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
+- **Nino Options**: HTTP 403 for https://www.nino-options.nl
+- **Northpool**: HTTP 403 for https://www.northpool.nl/vacancies
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Premonition**: HTTP 403 for https://www.premonition.com
+- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
+- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **XR Trading**: HTTP 403 for https://xrtrading.com

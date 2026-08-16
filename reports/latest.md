@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-16 06:47 UTC_
+_Last updated: 2026-08-16 12:48 UTC_
 
 **12 matching open role(s)** across tracked firms.
 
@@ -38,11 +38,7 @@ _Last updated: 2026-08-16 06:47 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
+- **Arfima Trading**: Request failed for https://www.arfima.com/careers: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Savius**: Request failed for https://savius.com: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

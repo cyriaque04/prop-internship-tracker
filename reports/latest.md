@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-17 07:03 UTC_
+_Last updated: 2026-08-17 12:54 UTC_
 
-**12 matching open role(s)** across tracked firms.
+**14 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -24,6 +24,10 @@ _Last updated: 2026-08-17 07:03 UTC_
 ## Maven Securities
 - [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London  _(quant, trading)_
 
+## Optiver
+- [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/)  _(quant)_
+- [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/quantitative-trading-internship-2027-start/)  _(quant, trading)_
+
 ## Tower Research Capital
 - [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London  _(quant)_
 
@@ -38,8 +42,12 @@ _Last updated: 2026-08-17 07:03 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
 - **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
-- **Lucida**: Request failed for https://www.lucida.com/careers: The read operation timed out
+- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
+- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Savius**: URL error for https://savius.com: timed out
+- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

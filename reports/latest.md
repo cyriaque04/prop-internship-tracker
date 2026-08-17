@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-17 12:54 UTC_
+_Last updated: 2026-08-17 18:26 UTC_
 
 **14 matching open role(s)** across tracked firms.
 
@@ -42,12 +42,8 @@ _Last updated: 2026-08-17 12:54 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
-- **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
-- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
-- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
+- **Consolidated Trading**: HTTP 404 for http://www.consolidatedtrading.com
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Savius**: URL error for https://savius.com: timed out
-- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-16 18:17 UTC_
+_Last updated: 2026-08-17 07:03 UTC_
 
 **12 matching open role(s)** across tracked firms.
 
@@ -38,7 +38,8 @@ _Last updated: 2026-08-16 18:17 UTC_
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Arfima Trading**: Request failed for https://www.arfima.com/careers: The read operation timed out
+- **Cascade Systems**: HTTP 521 for https://www.cascadesystems.com/careers
+- **Lucida**: Request failed for https://www.lucida.com/careers: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

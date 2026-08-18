@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-18 06:53 UTC_
+_Last updated: 2026-08-18 12:56 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,17 +46,7 @@ _Last updated: 2026-08-18 06:53 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
-- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
 - **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
-- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
-- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Savius**: URL error for https://savius.com: timed out
-- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

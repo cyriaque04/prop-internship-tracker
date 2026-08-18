@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-17 18:26 UTC_
+_Last updated: 2026-08-18 06:53 UTC_
 
-**14 matching open role(s)** across tracked firms.
+**16 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -41,9 +41,22 @@ _Last updated: 2026-08-17 18:26 UTC_
 				
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
 
+## Xantium
+- [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York  _(quant)_
+- [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
+
 ## ⚠️ Firms that could not be checked this run
-- **Consolidated Trading**: HTTP 404 for http://www.consolidatedtrading.com
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
+- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
+- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
+- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
+- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
+- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
+- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
+- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
+- **Savius**: URL error for https://savius.com: timed out
+- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

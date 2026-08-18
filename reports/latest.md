@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-18 12:56 UTC_
+_Last updated: 2026-08-18 18:25 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -50,3 +50,4 @@ _Last updated: 2026-08-18 12:56 UTC_
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **WEBB Traders**: HTTP 500 for https://www.webbtraders.com/careers

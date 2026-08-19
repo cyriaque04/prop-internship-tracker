@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-19 12:56 UTC_
+_Last updated: 2026-08-19 18:22 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,7 +46,6 @@ _Last updated: 2026-08-19 12:56 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **DSV Fund**: Request failed for https://www.dsvfund.com: The read operation timed out
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

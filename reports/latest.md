@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-18 18:25 UTC_
+_Last updated: 2026-08-19 06:51 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,8 +46,21 @@ _Last updated: 2026-08-18 18:25 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **323 Trading**: HTTP 403 for https://323trading.nl
+- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
+- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
 - **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
+- **Chicago Trading Company**: HTTP 403 for https://www.chicagotrading.com/careers
+- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
+- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
+- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
+- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
+- **Nino Options**: HTTP 403 for https://www.nino-options.nl
+- **Northpool**: HTTP 403 for https://www.northpool.nl/vacancies
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Premonition**: HTTP 403 for https://www.premonition.com
+- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
+- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
-- **WEBB Traders**: HTTP 500 for https://www.webbtraders.com/careers
+- **XR Trading**: HTTP 403 for https://xrtrading.com

@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-20 12:59 UTC_
+_Last updated: 2026-08-20 18:26 UTC_
 
-**15 matching open role(s)** across tracked firms.
+**16 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -35,6 +35,12 @@ _Last updated: 2026-08-20 12:59 UTC_
 - [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
 
+## Wincent
+- [Quantitative Research Internship – Quant Research/Trading – Starting Summer 2027				
+		
+				
+							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
+
 ## Xantium
 - [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York  _(quant)_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
@@ -42,6 +48,4 @@ _Last updated: 2026-08-20 12:59 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **QCP Capital**: Request failed for https://www.qcpcapital.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
-- **Wincent**: HTTP 500 for https://www.wincent.com/careers

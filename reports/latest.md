@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-19 18:22 UTC_
+_Last updated: 2026-08-20 06:54 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,6 +46,9 @@ _Last updated: 2026-08-19 18:22 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
+- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 104] Connection reset by peer
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **SCALP Trade**: Request failed for https://scalptrade.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

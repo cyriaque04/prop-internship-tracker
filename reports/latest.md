@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-20 18:26 UTC_
+_Last updated: 2026-08-21 06:54 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,6 +46,8 @@ _Last updated: 2026-08-20 18:26 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Man Group (Man AHL)**: Request failed for https://www.mangroup.com/careers: IncompleteRead(0 bytes read)
+- **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

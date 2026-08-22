@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-21 18:25 UTC_
+_Last updated: 2026-08-22 06:46 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,10 +46,10 @@ _Last updated: 2026-08-21 18:25 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **323 Trading**: URL error for https://323trading.nl: [Errno 101] Network is unreachable
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
+- **Gunvor Group**: Expecting value: line 1 column 1 (char 0)
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Trafigura**: Expecting value: line 1 column 1 (char 0)
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

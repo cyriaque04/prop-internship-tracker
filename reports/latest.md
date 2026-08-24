@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-24 12:59 UTC_
+_Last updated: 2026-08-24 18:27 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -49,4 +49,5 @@ _Last updated: 2026-08-24 12:59 UTC_
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

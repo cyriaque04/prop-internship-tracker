@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-24 18:27 UTC_
+_Last updated: 2026-08-25 06:56 UTC_
 
 **16 matching open role(s)** across tracked firms.
 
@@ -46,8 +46,12 @@ _Last updated: 2026-08-24 18:27 UTC_
 - [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **ABC Arbitrage**: Request failed for https://www.abc-arbitrage.com/careers: The read operation timed out
+- **Caladan**: URL error for https://www.caladan.com: [Errno -3] Temporary failure in name resolution
+- **Kershner Trading Group**: URL error for https://www.kershnertrading.com: timed out
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **SQM Technologies**: HTTP 404 for https://www.sqmtechnologies.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

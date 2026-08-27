@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-26 19:34 UTC_
+_Last updated: 2026-08-27 17:30 UTC_
 
-**16 matching open role(s)** across tracked firms.
+**15 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -26,7 +26,6 @@ _Last updated: 2026-08-26 19:34 UTC_
 
 ## Optiver
 - [Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/amsterdam/quantitative-research-internship-2027-start/)  _(quant)_
-- [Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/amsterdam/quantitative-trading-internship-2027-start/)  _(quant, trading)_
 
 ## Tower Research Capital
 - [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London  _(quant)_
@@ -43,9 +42,11 @@ _Last updated: 2026-08-26 19:34 UTC_
 
 ## Xantium
 - [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England, New York, New York  _(quant)_
-- [Quantitative Researcher Internship](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
+- [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
+- **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

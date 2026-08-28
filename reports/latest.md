@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-28 18:23 UTC_
+_Last updated: 2026-08-28 21:58 UTC_
 
 **15 matching open role(s)** across tracked firms.
 
@@ -51,4 +51,6 @@ _Last updated: 2026-08-28 18:23 UTC_
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
+- **TSY Capital**: Request failed for https://www.tsycapital.com: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

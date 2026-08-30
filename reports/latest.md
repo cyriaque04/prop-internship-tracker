@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-30 16:23 UTC_
+_Last updated: 2026-08-30 20:18 UTC_
 
 **15 matching open role(s)** across tracked firms.
 
@@ -45,9 +45,8 @@ _Last updated: 2026-08-30 16:23 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Enigma Quant Capital**: Request failed for https://www.enigmaquant.com: The read operation timed out
+- **Man Group (Man AHL)**: Request failed for https://www.mangroup.com/careers: The read operation timed out
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers

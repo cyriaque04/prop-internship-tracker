@@ -1,11 +1,14 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-08-30 20:18 UTC_
+_Last updated: 2026-08-31 13:05 UTC_
 
-**15 matching open role(s)** across tracked firms.
+**16 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
+
+## BlockTech
+- [Quantitative Researcher | Internship | Summer '27AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-internship-summer-27-amsterdam)  _(quant)_
 
 ## DV Trading
 - [Trading Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) — London  _(trading)_
@@ -45,10 +48,12 @@ _Last updated: 2026-08-30 20:18 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Arfima Trading**: URL error for https://www.arfima.com/careers: timed out
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Man Group (Man AHL)**: Request failed for https://www.mangroup.com/careers: The read operation timed out
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

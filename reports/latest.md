@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-02 16:18 UTC_
+_Last updated: 2026-09-02 20:19 UTC_
 
 **19 matching open role(s)** across tracked firms.
 
@@ -51,11 +51,12 @@ _Last updated: 2026-09-02 16:18 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Nino Options**: URL error for https://www.nino-options.nl: [Errno -3] Temporary failure in name resolution
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **QCP Capital**: Request failed for https://www.qcpcapital.com/careers: The read operation timed out
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

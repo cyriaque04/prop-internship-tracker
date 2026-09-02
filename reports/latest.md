@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-01 20:21 UTC_
+_Last updated: 2026-09-02 10:55 UTC_
 
 **19 matching open role(s)** across tracked firms.
 
@@ -51,6 +51,7 @@ _Last updated: 2026-09-01 20:21 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers

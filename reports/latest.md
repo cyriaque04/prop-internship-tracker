@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-03 16:10 UTC_
+_Last updated: 2026-09-03 20:19 UTC_
 
 **18 matching open role(s)** across tracked firms.
 
@@ -48,15 +48,12 @@ _Last updated: 2026-09-03 16:10 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
-- **Bracebridge Capital**: Request failed for https://boards-api.greenhouse.io/v1/boards/bracebridgecapital/jobs?content=false: The read operation timed out
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

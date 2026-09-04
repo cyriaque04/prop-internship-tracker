@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-04 10:56 UTC_
+_Last updated: 2026-09-04 16:03 UTC_
 
 **20 matching open role(s)** across tracked firms.
 
@@ -54,20 +54,11 @@ _Last updated: 2026-09-04 10:56 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **Barak Capital**: HTTP 403 for https://www.barakcapital.com/careers
-- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
-- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
+- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Linitics**: HTTP 403 for https://linitics.com
-- **Man Group (Man AHL)**: HTTP 403 for https://www.mangroup.com/careers
-- **Mercuria**: HTTP 500 for https://www.mercuria.com/careers
-- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
-- **Savius**: URL error for https://savius.com: timed out
-- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-05 14:54 UTC_
+_Last updated: 2026-09-05 19:45 UTC_
 
 **20 matching open role(s)** across tracked firms.
 
@@ -54,10 +54,27 @@ _Last updated: 2026-09-05 14:54 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **323 Trading**: HTTP 403 for https://323trading.nl
+- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
+- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
+- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
+- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
+- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
+- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
+- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
+- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
+- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
+- **Nino Options**: HTTP 403 for https://www.nino-options.nl
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Premonition**: HTTP 403 for https://www.premonition.com
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Trafigura (Trafigura Commodities Sàrl)**: HTTP 403 for https://www.trafigura.com/careers
+- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **XR Trading**: HTTP 403 for https://xrtrading.com

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-06 10:34 UTC_
+_Last updated: 2026-09-06 15:13 UTC_
 
 **20 matching open role(s)** across tracked firms.
 
@@ -60,5 +60,4 @@ _Last updated: 2026-09-06 10:34 UTC_
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
-- **Vatic Labs**: Request failed for https://boards-api.greenhouse.io/v1/boards/vaticlabs/jobs?content=false: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

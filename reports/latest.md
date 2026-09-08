@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-07 20:57 UTC_
+_Last updated: 2026-09-08 10:56 UTC_
 
-**21 matching open role(s)** across tracked firms.
+**20 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -38,12 +38,6 @@ _Last updated: 2026-09-07 20:57 UTC_
 - [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
 
-## Wincent
-- [Quantitative Research Internship – Quant Research/Trading – Starting Summer 2027				
-		
-				
-							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
-
 ## WorldQuant
 - [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) — Paris  _(quant)_
 
@@ -55,10 +49,18 @@ _Last updated: 2026-09-07 20:57 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
+- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
+- **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Simplex Trading**: Request failed for https://boards-api.greenhouse.io/v1/boards/simplextrading/jobs?content=false: The read operation timed out
+- **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **Wincent**: URL error for https://www.wincent.com/careers: [Errno 104] Connection reset by peer

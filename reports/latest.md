@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-08 16:23 UTC_
+_Last updated: 2026-09-08 20:32 UTC_
 
 **21 matching open role(s)** across tracked firms.
 
@@ -56,15 +56,15 @@ _Last updated: 2026-09-08 16:23 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
+- **Barak Capital**: HTTP 403 for https://www.barakcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Linitics**: HTTP 403 for https://linitics.com
+- **Man Group (Man AHL)**: HTTP 403 for https://www.mangroup.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
-- **ORA Traders**: URL error for https://www.oratraders.com/vacancies: [Errno 101] Network is unreachable
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers

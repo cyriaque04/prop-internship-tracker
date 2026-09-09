@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-08 20:32 UTC_
+_Last updated: 2026-09-09 11:01 UTC_
 
-**21 matching open role(s)** across tracked firms.
+**22 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -28,6 +28,9 @@ _Last updated: 2026-09-08 20:32 UTC_
 - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) — Amsterdam  _(trading)_
 - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) — London  _(trading)_
 - [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London  _(quant, trading)_
+
+## Schonfeld
+- [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) — London, England, United Kingdom  _(quant)_
 
 ## Tower Research Capital
 - [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris  _(quant)_
@@ -56,10 +59,7 @@ _Last updated: 2026-09-08 20:32 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Barak Capital**: HTTP 403 for https://www.barakcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Linitics**: HTTP 403 for https://linitics.com
-- **Man Group (Man AHL)**: HTTP 403 for https://www.mangroup.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-09 20:16 UTC_
+_Last updated: 2026-09-10 10:58 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -59,14 +59,19 @@ _Last updated: 2026-09-09 20:16 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Capstone Trading Inc.**: URL error for https://www.capstone.com/careers: timed out
+- **Deep Blue Capital**: URL error for https://deepbluecap.com/vacancies: timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
+- **Nebula Research**: URL error for https://www.nebularesearch.com: timed out
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Savius**: URL error for https://savius.com: timed out
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
+- **Valkyrie Trading**: URL error for https://www.valkyrietrading.com/careers: timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

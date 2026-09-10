@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-10 16:10 UTC_
+_Last updated: 2026-09-10 20:17 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -59,7 +59,10 @@ _Last updated: 2026-09-10 16:10 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Barak Capital**: HTTP 403 for https://www.barakcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Linitics**: HTTP 403 for https://linitics.com
+- **Man Group (Man AHL)**: HTTP 403 for https://www.mangroup.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable

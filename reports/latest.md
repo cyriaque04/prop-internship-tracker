@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-11 16:13 UTC_
+_Last updated: 2026-09-11 20:16 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -58,17 +58,30 @@ _Last updated: 2026-09-11 16:13 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
+- **323 Trading**: HTTP 403 for https://323trading.nl
+- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
 - **Aureas Finance**: HTTP 404 for https://www.aureasfinance.com
+- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
+- **Chicago Trading Company**: HTTP 403 for https://www.chicagotrading.com/careers
+- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Kershner Trading Group**: URL error for https://www.kershnertrading.com: timed out
+- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
+- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
+- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
+- **Nino Options**: HTTP 403 for https://www.nino-options.nl
+- **Northpool**: HTTP 403 for https://www.northpool.nl/vacancies
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Premonition**: HTTP 403 for https://www.premonition.com
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
+- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **XR Trading**: HTTP 403 for https://xrtrading.com

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-13 11:23 UTC_
+_Last updated: 2026-09-13 15:57 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -59,8 +59,11 @@ _Last updated: 2026-09-13 11:23 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Aureas Finance**: HTTP 404 for https://www.aureasfinance.com
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Jerpoint Capital**: URL error for https://www.jerpointcapital.com: [Errno 104] Connection reset by peer
+- **Lucida**: URL error for https://www.lucida.com/careers: [Errno 104] Connection reset by peer
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable

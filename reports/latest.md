@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-14 21:15 UTC_
+_Last updated: 2026-09-15 11:26 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -59,9 +59,7 @@ _Last updated: 2026-09-14 21:15 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Aureas Finance**: HTTP 404 for https://www.aureasfinance.com
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
@@ -70,7 +68,7 @@ _Last updated: 2026-09-14 21:15 UTC_
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
-- **Optica**: HTTP 403 for https://www.optica.com/careers
+- **Optica**: URL error for https://www.optica.com/careers: [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers

@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-16 16:33 UTC_
+_Last updated: 2026-09-16 20:41 UTC_
 
-**22 matching open role(s)** across tracked firms.
+**23 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -30,6 +30,7 @@ _Last updated: 2026-09-16 16:33 UTC_
 - [Quant Trader Internship 2027 (6 months)](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8043552) — London  _(quant, trading)_
 
 ## Schonfeld
+- [2027 DMFI Quant Developer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8207942) — London, England, United Kingdom  _(quant)_
 - [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) — London, England, United Kingdom  _(quant)_
 
 ## Tower Research Capital
@@ -59,9 +60,6 @@ _Last updated: 2026-09-16 16:33 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
-- **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
@@ -69,12 +67,10 @@ _Last updated: 2026-09-16 16:33 UTC_
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
-- **Open Futures Group**: HTTP 502 for https://www.open-futures.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
-- **Savius**: HTTP 403 for https://savius.com
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
 - **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

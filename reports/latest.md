@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-16 11:08 UTC_
+_Last updated: 2026-09-16 16:33 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -69,6 +69,7 @@ _Last updated: 2026-09-16 11:08 UTC_
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [Errno 101] Network is unreachable
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
+- **Open Futures Group**: HTTP 502 for https://www.open-futures.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers

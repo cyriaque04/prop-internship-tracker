@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-17 20:48 UTC_
+_Last updated: 2026-09-18 10:52 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -60,6 +60,7 @@ _Last updated: 2026-09-17 20:48 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com

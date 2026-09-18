@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-18 16:12 UTC_
+_Last updated: 2026-09-18 20:12 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -60,12 +60,9 @@ _Last updated: 2026-09-18 16:12 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Barak Capital**: URL error for https://www.barakcapital.com/careers: [Errno 101] Network is unreachable
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
+- **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
+- **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Estee Advisors**: URL error for https://www.esteeadvisors.com/careers: timed out
-- **Linitics**: URL error for https://linitics.com: [Errno 101] Network is unreachable
-- **Man Group (Man AHL)**: URL error for https://www.mangroup.com/careers: [Errno 101] Network is unreachable
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
@@ -76,5 +73,7 @@ _Last updated: 2026-09-18 16:12 UTC_
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Savius**: HTTP 403 for https://savius.com
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
+- **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

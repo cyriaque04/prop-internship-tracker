@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-20 10:58 UTC_
+_Last updated: 2026-09-20 15:48 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -63,7 +63,6 @@ _Last updated: 2026-09-20 10:58 UTC_
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **Dymon Asia**: Request failed for https://www.dymonasia.com/join: The read operation timed out
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable

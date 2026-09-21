@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-21 18:07 UTC_
+_Last updated: 2026-09-21 21:27 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -60,8 +60,7 @@ _Last updated: 2026-09-21 18:07 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
-- **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable
@@ -72,8 +71,7 @@ _Last updated: 2026-09-21 18:07 UTC_
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **QCP Capital**: Request failed for https://www.qcpcapital.com/careers: The read operation timed out
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
-- **Savius**: HTTP 403 for https://savius.com
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
-- **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io

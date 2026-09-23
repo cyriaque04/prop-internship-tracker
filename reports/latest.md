@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-22 20:44 UTC_
+_Last updated: 2026-09-23 11:06 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -59,9 +59,9 @@ _Last updated: 2026-09-22 20:44 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **3Red Partners**: Request failed for https://www.3redpartners.com/careers: The read operation timed out
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers

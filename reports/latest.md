@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-24 11:25 UTC_
+_Last updated: 2026-09-24 16:52 UTC_
 
-**23 matching open role(s)** across tracked firms.
+**22 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -47,9 +47,6 @@ _Last updated: 2026-09-24 11:25 UTC_
 		
 				
 							InternshipsFull timeOn siteBratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
-
-## WorldQuant
-- [Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) — Paris  _(quant)_
 
 ## XY Capital
 - [2027 Summer internship Quant Research and Trading London](https://www.xycapitalgroup.com/careers/2027-summer-internship-quant-research-and-trading-london/)  _(quant, trading)_

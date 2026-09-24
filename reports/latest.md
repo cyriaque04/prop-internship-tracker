@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-24 16:52 UTC_
+_Last updated: 2026-09-24 21:00 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -70,6 +70,7 @@ _Last updated: 2026-09-24 16:52 UTC_
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
+- **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: HTTP 403 for https://savius.com
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
 - **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers

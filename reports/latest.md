@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-26 16:09 UTC_
+_Last updated: 2026-09-26 20:25 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -57,7 +57,6 @@ _Last updated: 2026-09-26 16:09 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [Errno 101] Network is unreachable

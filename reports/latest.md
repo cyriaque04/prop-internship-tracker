@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-29 12:27 UTC_
+_Last updated: 2026-09-29 17:58 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -58,8 +58,8 @@ _Last updated: 2026-09-29 12:27 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [Errno 101] Network is unreachable
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
@@ -73,7 +73,6 @@ _Last updated: 2026-09-29 12:27 UTC_
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
-- **Saccade Capital**: Request failed for https://www.saccadecapital.com: The read operation timed out
 - **Savius**: HTTP 403 for https://savius.com
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [Errno 101] Network is unreachable
 - **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers

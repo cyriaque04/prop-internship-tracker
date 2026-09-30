@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-09-30 17:52 UTC_
+_Last updated: 2026-09-30 21:42 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -60,9 +60,6 @@ _Last updated: 2026-09-30 17:52 UTC_
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
-- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
@@ -71,6 +68,7 @@ _Last updated: 2026-09-30 17:52 UTC_
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: HTTP 403 for https://savius.com
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-01 18:17 UTC_
+_Last updated: 2026-10-01 22:10 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -53,35 +53,25 @@ _Last updated: 2026-10-01 18:17 UTC_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **323 Trading**: HTTP 403 for https://323trading.nl
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
-- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
-- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
+- **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
 - **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
-- **Chicago Trading Company**: HTTP 403 for https://www.chicagotrading.com/careers
-- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
+- **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Eclipse Trading**: HTTP 500 for https://www.eclipsetrading.com/careers
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
-- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
-- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
-- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com
-- **Nino Options**: HTTP 403 for https://www.nino-options.nl
-- **Northpool**: HTTP 403 for https://www.northpool.nl/vacancies
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Premonition**: HTTP 403 for https://www.premonition.com
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
-- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
-- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
+- **Savius**: HTTP 403 for https://savius.com
+- **UTR8 Group**: URL error for https://www.utr8.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
-- **XR Trading**: HTTP 403 for https://xrtrading.com
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

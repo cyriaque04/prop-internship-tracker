@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-12 21:08 UTC_
+_Last updated: 2026-10-13 00:00 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -57,15 +57,17 @@ _Last updated: 2026-10-12 21:08 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
+- **Arfima Trading**: URL error for https://www.arfima.com/careers: [Errno -3] Temporary failure in name resolution
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Barak Capital**: HTTP 403 for https://www.barakcapital.com/careers
 - **Capstone Trading Inc.**: HTTP 403 for https://www.capstone.com/careers
 - **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
-- **Contek (Contrarian Technology)**: Request failed for https://www.contek.io: The read operation timed out
 - **Deep Blue Capital**: HTTP 403 for https://deepbluecap.com/vacancies
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
+- **Linitics**: HTTP 403 for https://linitics.com
+- **Man Group (Man AHL)**: HTTP 403 for https://www.mangroup.com/careers
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
-- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: HTTP 403 for https://www.nebularesearch.com

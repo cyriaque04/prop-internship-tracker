@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-14 11:28 UTC_
+_Last updated: 2026-10-14 16:53 UTC_
 
 **23 matching open role(s)** across tracked firms.
 
@@ -60,6 +60,8 @@ _Last updated: 2026-10-14 11:28 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers

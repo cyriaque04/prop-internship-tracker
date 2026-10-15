@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-15 16:38 UTC_
+_Last updated: 2026-10-15 20:44 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -57,8 +57,7 @@ _Last updated: 2026-10-15 16:38 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
-- **Black Eagle Financial Group**: Request failed for https://blackeaglefg.com/jobs: The read operation timed out
+- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 403 for https://www.matrixexecutions.com/careers
@@ -72,6 +71,5 @@ _Last updated: 2026-10-15 16:38 UTC_
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Valkyrie Trading**: HTTP 403 for https://www.valkyrietrading.com/careers
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

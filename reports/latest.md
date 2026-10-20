@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-20 16:38 UTC_
+_Last updated: 2026-10-20 21:02 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -56,12 +56,13 @@ _Last updated: 2026-10-20 16:38 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
-- **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
-- **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
+- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
-- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Matrix Executions**: HTTP 429 for https://www.matrixexecutions.com/careers
+- **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
+- **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
@@ -72,9 +73,7 @@ _Last updated: 2026-10-20 16:38 UTC_
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
-- **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: URL error for https://www.utr8.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

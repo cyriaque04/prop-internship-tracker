@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-25 15:51 UTC_
+_Last updated: 2026-10-25 20:11 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -66,7 +66,6 @@ _Last updated: 2026-10-25 15:51 UTC_
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
-- **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Old Mission Capital**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=false
@@ -74,6 +73,7 @@ _Last updated: 2026-10-25 15:51 UTC_
 - **Optica**: HTTP 403 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **Quant Matter**: URL error for https://www.quantmatter.com/careers: timed out
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response

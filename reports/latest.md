@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-10-26 18:31 UTC_
+_Last updated: 2026-10-26 22:06 UTC_
 
-**21 matching open role(s)** across tracked firms.
+**20 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -31,9 +31,6 @@ _Last updated: 2026-10-26 18:31 UTC_
 - [Amsterdam Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591) — Amsterdam  _(trading)_
 - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) — London  _(trading)_
 
-## Schonfeld
-- [2027 DMFI Quant Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8187178) — London, England, United Kingdom  _(quant)_
-
 ## Tower Research Capital
 - [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris  _(quant)_
 - [Quantitative Research Internship - 6 Months, Central Execution Research](https://www.tower-research.com/open-positions/?gh_jid=8113986) — London  _(quant)_
@@ -55,11 +52,14 @@ _Last updated: 2026-10-26 18:31 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
+- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
+- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
+- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Murano Group**: URL error for https://www.muranogroup.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-03 13:52 UTC_
+_Last updated: 2026-11-03 19:20 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -28,10 +28,10 @@ _Last updated: 2026-11-03 13:52 UTC_
 - [Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8050772) — London; Amsterdam  _(quant, trading)_
 
 ## Keyrock
-- [DeFi Quant Research Intern - Digital Assets Market Making](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) — Brussels  _(quant, trading)_
-- [DeFi Quant Trader Intern (Credit)](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) — Brussels  _(quant, trading)_
-- [Innovation Quant Developer: Intern - DeFi/Corporate Development](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) — Brussels  _(quant, trading)_
-- [Quantitative Analyst Intern - Digital Assets Market Making (HFT)](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) — Brussels  _(quant, trading)_
+- [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) — Brussels  _(quant, trading)_
+- [DeFi Quant Trader Intern (Credit) - Brussels](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24) — Brussels  _(quant, trading)_
+- [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) — Brussels  _(quant, trading)_
+- [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) — Brussels  _(quant, trading)_
 
 ## Tower Research Capital
 - [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris  _(quant)_
@@ -54,29 +54,27 @@ _Last updated: 2026-11-03 13:52 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
-- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Armada Technologies**: URL error for https://www.armadatechnologies.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
-- **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DNB Carnegie**: HTTP 404 for https://www.dnbcarnegie.com/career
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
-- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
-- **Mercuria Energy Group**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **Mercuria Energy America**: URL error for https://www.mercuriaenergy.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Old Mission Capital**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=false
 - **Open Futures Group**: HTTP 403 for https://www.open-futures.com/careers
-- **Optica**: HTTP 403 for https://www.optica.com/careers
+- **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
-- **UTR8 Group**: URL error for https://www.utr8.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **UTR8 Group**: URL error for https://www.utr8.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-04 19:35 UTC_
+_Last updated: 2026-11-04 23:02 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -55,12 +55,11 @@ _Last updated: 2026-11-04 19:35 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Arfima Trading**: Request failed for https://www.arfima.com/careers: The read operation timed out
+- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **ExodusPoint Capital**: Request failed for https://www.exoduspoint.com: The read operation timed out
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **Jerpoint Capital**: Request failed for https://www.jerpointcapital.com: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response

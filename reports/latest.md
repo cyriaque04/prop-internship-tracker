@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-04 23:02 UTC_
+_Last updated: 2026-11-05 14:18 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -55,9 +55,6 @@ _Last updated: 2026-11-04 23:02 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Arfima Trading**: Request failed for https://www.arfima.com/careers: The read operation timed out
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
-- **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
-- **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
@@ -71,8 +68,6 @@ _Last updated: 2026-11-04 23:02 UTC_
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
-- **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
-- **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-07 12:42 UTC_
+_Last updated: 2026-11-07 17:40 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -56,7 +56,6 @@ _Last updated: 2026-11-07 12:42 UTC_
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
-- **Cascade Systems**: HTTP 525 for https://www.cascadesystems.com/careers
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-08 12:59 UTC_
+_Last updated: 2026-11-08 17:50 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -75,6 +75,7 @@ _Last updated: 2026-11-08 12:59 UTC_
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response

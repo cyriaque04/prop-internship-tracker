@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-07 21:16 UTC_
+_Last updated: 2026-11-08 12:59 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -55,7 +55,6 @@ _Last updated: 2026-11-07 21:16 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
-- **Aros Commodities**: URL error for https://www.aroscommodities.com: [Errno 101] Network is unreachable
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
@@ -75,6 +74,7 @@ _Last updated: 2026-11-07 21:16 UTC_
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
+- **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response

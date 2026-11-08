@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-08 17:50 UTC_
+_Last updated: 2026-11-08 21:31 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -70,12 +70,12 @@ _Last updated: 2026-11-08 17:50 UTC_
 - **Open Futures Group**: HTTP 403 for https://www.open-futures.com/careers
 - **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
+- **Plutus Research**: URL error for https://www.plutusresearch.com/careers: _ssl.c:994: The handshake operation timed out
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
-- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response

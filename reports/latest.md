@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-09 22:09 UTC_
+_Last updated: 2026-11-10 01:01 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -54,13 +54,9 @@ _Last updated: 2026-11-09 22:09 UTC_
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
-- **AlphaGrep**: URL error for https://www.alpha-grep.com/career: timed out
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
-- **Dolat Capital**: URL error for https://www.dolatcapital.com/careers: timed out
-- **DSV Fund**: URL error for https://www.dsvfund.com: [Errno 101] Network is unreachable
+- **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **Matrix Executions**: URL error for https://www.matrixexecutions.com/careers: timed out
-- **Maverick Derivatives**: URL error for https://maverickderivatives.com: timed out
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false

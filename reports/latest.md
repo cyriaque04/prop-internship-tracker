@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-10 14:34 UTC_
+_Last updated: 2026-11-10 19:32 UTC_
 
 **22 matching open role(s)** across tracked firms.
 
@@ -20,7 +20,7 @@ _Last updated: 2026-11-10 14:34 UTC_
 - [Summer Trading Internship](https://job-boards.greenhouse.io/flowtraders/jobs/8260920) — Amsterdam  _(trading)_
 
 ## GSA Capital
-- [Quantitative Researcher - Intern](https://www.gsacapital.com/careers/gh/?gh_jid=8570661002) — London, New York  _(quant)_
+- [Quantitative Researcher - Intern](https://job-boards.greenhouse.io/gsacapital/jobs/8570661002) — London, New York  _(quant)_
 
 ## Jump Trading
 - [Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) — London; Amsterdam  _(quant)_
@@ -49,7 +49,7 @@ _Last updated: 2026-11-10 14:34 UTC_
 - [2027 Summer internship Quant Research and Trading London](https://www.xycapitalgroup.com/careers/2027-summer-internship-quant-research-and-trading-london/)  _(quant, trading)_
 
 ## Xantium
-- [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London, England  _(quant)_
+- [Quantitative Developer Intern](https://job-boards.greenhouse.io/xantium/jobs/4360768009) — London  _(quant)_
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run

@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-11 13:49 UTC_
+_Last updated: 2026-11-11 19:27 UTC_
 
-**24 matching open role(s)** across tracked firms.
+**23 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -46,9 +46,6 @@ _Last updated: 2026-11-11 13:49 UTC_
 - [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
 - [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
 
-## Wincent
-- [InternshipsQuantitative Research Internship - Quant Research/Trading - starting Summer 2027Full time · On site · Bratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
-
 ## XY Capital
 - [2027 Summer internship Quant Research and Trading London](https://www.xycapitalgroup.com/careers/2027-summer-internship-quant-research-and-trading-london/)  _(quant, trading)_
 
@@ -59,8 +56,11 @@ _Last updated: 2026-11-11 13:49 UTC_
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
+- **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
+- **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
+- **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
@@ -74,8 +74,13 @@ _Last updated: 2026-11-11 13:49 UTC_
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
+- **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
+- **SQM Technologies**: URL error for https://www.sqmtechnologies.com/careers: [Errno 104] Connection reset by peer
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
+- **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
+- **Voloridge Investment Management**: URL error for https://www.voloridge.com: _ssl.c:994: The handshake operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
+- **Wincent**: Request failed for https://www.wincent.com/careers: The read operation timed out
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

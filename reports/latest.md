@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-11 23:52 UTC_
+_Last updated: 2026-11-12 14:52 UTC_
 
 **24 matching open role(s)** across tracked firms.
 
@@ -75,6 +75,7 @@ _Last updated: 2026-11-11 23:52 UTC_
 - **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **Quant Matter**: HTTP 404 for https://www.quantmatter.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response

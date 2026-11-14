@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-13 23:03 UTC_
+_Last updated: 2026-11-14 13:13 UTC_
 
 **25 matching open role(s)** across tracked firms.
 
@@ -72,6 +72,7 @@ _Last updated: 2026-11-13 23:03 UTC_
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Old Mission Capital**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=false
+- **Open Futures Group**: HTTP 403 for https://www.open-futures.com/careers
 - **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers

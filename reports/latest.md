@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-19 15:29 UTC_
+_Last updated: 2026-11-19 20:18 UTC_
 
 **28 matching open role(s)** across tracked firms.
 
@@ -41,7 +41,7 @@ _Last updated: 2026-11-19 15:29 UTC_
 - [London Trader Summer Internship 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806970) — London  _(trading)_
 
 ## Schonfeld
-- [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8167740) — London, England, United Kingdom  _(quant)_
+- [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) — London, England, United Kingdom  _(quant)_
 
 ## Tower Research Capital
 - [Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris  _(quant)_
@@ -68,7 +68,6 @@ _Last updated: 2026-11-19 15:29 UTC_
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
-- **ExodusPoint Capital**: Request failed for https://www.exoduspoint.com: The read operation timed out
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
@@ -86,9 +85,10 @@ _Last updated: 2026-11-19 15:29 UTC_
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
+- **Stronghold Capital Management**: URL error for https://www.stronghold.com/careers: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
-- **Verition Fund Management**: Request failed for https://www.verition.com/careers: The read operation timed out
+- **VivCourt Trading**: Request failed for https://www.vivcourt.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

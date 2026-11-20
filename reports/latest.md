@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-20 00:03 UTC_
+_Last updated: 2026-11-20 15:05 UTC_
 
 **28 matching open role(s)** across tracked firms.
 
@@ -73,6 +73,7 @@ _Last updated: 2026-11-20 00:03 UTC_
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
+- **Millennium**: Request failed for https://www.mlp.com/careers: The read operation timed out
 - **Murano Group**: HTTP 403 for https://www.muranogroup.com/careers
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers

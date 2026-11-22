@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-21 22:37 UTC_
+_Last updated: 2026-11-22 14:19 UTC_
 
 **28 matching open role(s)** across tracked firms.
 
@@ -69,7 +69,6 @@ _Last updated: 2026-11-21 22:37 UTC_
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false

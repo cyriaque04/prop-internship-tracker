@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-23 17:42 UTC_
+_Last updated: 2026-11-23 23:40 UTC_
 
 **28 matching open role(s)** across tracked firms.
 
@@ -68,9 +68,12 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Bastion Trading**: HTTP 403 for https://www.bastiontrading.com/careers
+- **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
+- **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Eclipse Trading**: URL error for https://www.eclipsetrading.com/careers: _ssl.c:994: The handshake operation timed out
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
+- **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
@@ -84,8 +87,11 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
+- **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
+- **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
+- **VivCourt Trading**: Request failed for https://www.vivcourt.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

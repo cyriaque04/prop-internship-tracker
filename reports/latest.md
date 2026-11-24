@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-24 03:38 UTC_
+_Last updated: 2026-11-24 17:12 UTC_
 
 **28 matching open role(s)** across tracked firms.
 
@@ -92,6 +92,5 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
-- **VivCourt Trading**: Request failed for https://www.vivcourt.com/careers: The read operation timed out
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

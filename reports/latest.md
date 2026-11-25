@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-25 16:59 UTC_
+_Last updated: 2026-11-25 21:25 UTC_
 
 **27 matching open role(s)** across tracked firms.
 
@@ -65,13 +65,16 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 
 ## ⚠️ Firms that could not be checked this run
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
+- **AlphaGrep**: URL error for https://www.alpha-grep.com/career: timed out
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Bastion Trading**: HTTP 403 for https://www.bastiontrading.com/careers
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
-- **DSV Fund**: HTTP 403 for https://www.dsvfund.com
+- **Dolat Capital**: URL error for https://www.dolatcapital.com/careers: timed out
+- **DSV Fund**: URL error for https://www.dsvfund.com: [Errno 101] Network is unreachable
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
+- **Maverick Derivatives**: URL error for https://maverickderivatives.com: timed out
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false

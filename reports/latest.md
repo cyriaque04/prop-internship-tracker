@@ -1,8 +1,8 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-25 01:47 UTC_
+_Last updated: 2026-11-25 16:59 UTC_
 
-**28 matching open role(s)** across tracked firms.
+**27 matching open role(s)** across tracked firms.
 
 ## Aquatic
 - [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London  _(quant)_
@@ -52,7 +52,6 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 
 ## VIRTU Financial
 - [2027 Internship - Quantitative Researcher (Master or PhD)](https://job-boards.greenhouse.io/virtu/jobs/8631180002) — Dublin, Ireland  _(quant)_
-- [2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland  _(quant, trading)_
 
 ## Wincent
 - [InternshipsQuantitative Research Internship - Quant Research/Trading - starting Summer 2027Full time · On site · Bratislava](https://www.wincent.com/careers/quantitative-research-internship-quant-research-trading-starting-summer-2027/)  _(quant, trading)_
@@ -68,7 +67,6 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Bastion Trading**: HTTP 403 for https://www.bastiontrading.com/careers
-- **Brevan Howard**: HTTP 404 for https://www.brevanhoward.com/careers/
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-26 01:20 UTC_
+_Last updated: 2026-11-26 16:38 UTC_
 
 **27 matching open role(s)** across tracked firms.
 
@@ -67,6 +67,7 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Bastion Trading**: HTTP 403 for https://www.bastiontrading.com/careers
+- **Black Eagle Financial Group**: Request failed for https://blackeaglefg.com/jobs: The read operation timed out
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Cascade Systems**: Request failed for https://www.cascadesystems.com/careers: The read operation timed out
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response

@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-27 16:23 UTC_
+_Last updated: 2026-11-27 20:56 UTC_
 
 **27 matching open role(s)** across tracked firms.
 
@@ -64,44 +64,31 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - [Quantitative Researcher Intern](https://job-boards.greenhouse.io/xantium/jobs/4371217009) — London, England, New York, New York  _(quant)_
 
 ## ⚠️ Firms that could not be checked this run
-- **323 Trading**: HTTP 403 for https://323trading.nl
 - **Accent Group**: HTTP 404 for https://www.accentgroupe.com/career
-- **AlphaGrep**: HTTP 403 for https://www.alpha-grep.com/career
 - **Armada Technologies**: HTTP 403 for https://www.armadatechnologies.com/careers
 - **Bastion Trading**: HTTP 403 for https://www.bastiontrading.com/careers
-- **Black Eagle Financial Group**: HTTP 403 for https://blackeaglefg.com/jobs
 - **Capstone Trading Inc.**: Request failed for https://www.capstone.com/careers: Remote end closed connection without response
 - **Deep Blue Capital**: Request failed for https://deepbluecap.com/vacancies: Remote end closed connection without response
-- **Dolat Capital**: HTTP 403 for https://www.dolatcapital.com/careers
 - **DSV Fund**: HTTP 403 for https://www.dsvfund.com
 - **Final**: Request failed for https://www.final.com/careers: The read operation timed out
-- **HBK Capital Management**: HTTP 403 for https://hbkcapitalmanagement.com/careers
-- **Jerpoint Capital**: HTTP 403 for https://www.jerpointcapital.com
 - **Matrix Executions**: HTTP 502 for https://www.matrixexecutions.com/careers
-- **Maverick Derivatives**: HTTP 403 for https://maverickderivatives.com
 - **Mercuria Energy America**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Mercuria Energy Group**: HTTP 403 for https://www.mercuriaenergy.com/careers
 - **Midpoint Markets**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/midpointmarkets/jobs?content=false
 - **Murano Group**: HTTP 403 for https://www.muranogroup.com/careers
 - **Nebula Research**: Request failed for https://www.nebularesearch.com: Remote end closed connection without response
-- **Nino Options**: HTTP 403 for https://www.nino-options.nl
-- **Northpool**: HTTP 403 for https://www.northpool.nl/vacancies
 - **Old Growth Harbor LLC**: HTTP 403 for https://www.oldgrowthharbor.com/careers
 - **Old Mission Capital**: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=false
 - **Open Futures Group**: HTTP 403 for https://www.open-futures.com/careers
 - **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
-- **Premonition**: HTTP 403 for https://www.premonition.com
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
-- **QCP Capital**: HTTP 403 for https://www.qcpcapital.com/careers
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
 - **Sovereign Blue Capital**: HTTP 404 for https://sovereignbluecapital.com/careers
-- **TradeLink**: HTTP 403 for https://tradelinkllc.com/careers
+- **TradeLink**: HTTP 404 for https://tradelinkllc.com/careers
 - **UTR8 Group**: HTTP 403 for https://www.utr8.com/careers
 - **Valkyrie Trading**: Request failed for https://www.valkyrietrading.com/careers: Remote end closed connection without response
-- **Voloridge Investment Management**: HTTP 403 for https://www.voloridge.com
 - **Waterfront International Ltd**: HTTP 403 for https://www.waterfront.io
-- **XR Trading**: HTTP 403 for https://xrtrading.com
 - **Z.R.T.X.**: HTTP 404 for https://www.accentgroupe.com/career

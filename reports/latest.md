@@ -1,6 +1,6 @@
 # Prop-firm summer internships — quant / trading / structuring
 
-_Last updated: 2026-11-26 21:11 UTC_
+_Last updated: 2026-11-27 01:18 UTC_
 
 **27 matching open role(s)** across tracked firms.
 
@@ -83,6 +83,7 @@ AmsterdamTrading](https://www.block-tech.io/jobs/quantitative-researcher-interns
 - **Optica**: HTTP 404 for https://www.optica.com/careers
 - **OSF Management**: HTTP 404 for https://www.osfmanagement.com/careers
 - **Priogen Energy**: HTTP 404 for https://priogen.com/careers
+- **QCP Capital**: Request failed for https://www.qcpcapital.com/careers: The read operation timed out
 - **Quantlab**: HTTP 403 for https://www.quantlab.com/careers
 - **Renaissance**: HTTP 403 for https://www.renaissance.com/careers
 - **Savius**: Request failed for https://savius.com: Remote end closed connection without response
